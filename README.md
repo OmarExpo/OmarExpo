@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Farah</h1>
-<h3 align="center">A passionate Backend, DevOps plus sepcial interest in IAM</h3>
+<h3 align="center">A passionate Backend, DevOps with special interest in IAM</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarexpo&label=Profile%20views&color=0e75b6&style=flat" alt="omarexpo" /> </p>
